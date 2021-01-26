@@ -1,0 +1,6 @@
+devel_space: /home/weihuang/catkin_test2/devel
+install: false
+install_space: /home/weihuang/catkin_test2/install
+profile: default
+source_space: /home/weihuang/catkin_test2/src
+workspace: /home/weihuang/catkin_test2

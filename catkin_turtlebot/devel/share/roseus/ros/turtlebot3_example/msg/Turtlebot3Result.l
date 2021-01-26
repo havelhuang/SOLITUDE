@@ -1,0 +1,1 @@
+/home/weihuang/catkin_test2/devel/.private/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3Result.l

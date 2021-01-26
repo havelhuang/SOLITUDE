@@ -1,0 +1,4 @@
+Symlinking /home/weihuang/catkin_test2/devel/share/turtlebot3_fake/cmake/turtlebot3_fakeConfig-version.cmake
+Symlinking /home/weihuang/catkin_test2/devel/share/turtlebot3_fake/cmake/turtlebot3_fakeConfig.cmake
+Symlinking /home/weihuang/catkin_test2/devel/lib/turtlebot3_fake/turtlebot3_fake_node
+Symlinking /home/weihuang/catkin_test2/devel/lib/pkgconfig/turtlebot3_fake.pc

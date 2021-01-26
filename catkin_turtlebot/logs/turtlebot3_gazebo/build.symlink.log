@@ -1,0 +1,4 @@
+Symlinking /home/weihuang/catkin_test2/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig-version.cmake
+Symlinking /home/weihuang/catkin_test2/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig.cmake
+Symlinking /home/weihuang/catkin_test2/devel/lib/turtlebot3_gazebo/turtlebot3_drive
+Symlinking /home/weihuang/catkin_test2/devel/lib/pkgconfig/turtlebot3_gazebo.pc

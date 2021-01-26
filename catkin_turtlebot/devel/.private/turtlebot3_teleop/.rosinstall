@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/weihuang/catkin_test2/devel/.private/turtlebot3_teleop/setup.sh

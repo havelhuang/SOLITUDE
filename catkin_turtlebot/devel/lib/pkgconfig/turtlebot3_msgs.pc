@@ -1,0 +1,1 @@
+/home/weihuang/catkin_test2/devel/.private/turtlebot3_msgs/lib/pkgconfig/turtlebot3_msgs.pc

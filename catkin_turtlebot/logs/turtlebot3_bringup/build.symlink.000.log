@@ -1,0 +1,4 @@
+Symlinking /home/weihuang/catkin_test2/devel/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+Symlinking /home/weihuang/catkin_test2/devel/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+Symlinking /home/weihuang/catkin_test2/devel/lib/turtlebot3_bringup/turtlebot3_diagnostics
+Symlinking /home/weihuang/catkin_test2/devel/lib/pkgconfig/turtlebot3_bringup.pc

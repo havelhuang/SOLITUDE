@@ -1,0 +1,1 @@
+/home/weihuang/catkin_test2/devel/.private/obstacle-avoidance-turtlebot/lib/pkgconfig/obstacle-avoidance-turtlebot.pc

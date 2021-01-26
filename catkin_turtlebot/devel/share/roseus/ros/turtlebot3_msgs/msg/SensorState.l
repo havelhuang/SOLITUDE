@@ -1,0 +1,1 @@
+/home/weihuang/catkin_test2/devel/.private/turtlebot3_msgs/share/roseus/ros/turtlebot3_msgs/msg/SensorState.l
